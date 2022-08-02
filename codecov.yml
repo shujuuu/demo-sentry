@@ -37,6 +37,6 @@ flags:
   backend:
     paths:
     - "src/sentry/**/*.py"
-    carryforward: true
+    carryforward: false
 
-comment: false
+comment: true
