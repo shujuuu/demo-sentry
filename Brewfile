@@ -14,7 +14,7 @@ brew 'watchman'
 brew 'pkgconfig'
 brew 'libxslt'
 brew 'libxmlsec1'
-brew 'geoip'
+brew 'test'
 
 # Currently needed because on Big Sur there's no wheel for it
 brew 'librdkafka'
